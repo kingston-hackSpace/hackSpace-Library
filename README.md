@@ -8,7 +8,7 @@ A curated reading list of resources on art, design and technology for the hackSp
 ## Art and Technology
 
 - ***Future Art Ecosystems - Vol 1: Art x Advanced Technologies***.
-- 
+  
 - ***Future Art Ecosystems - Vol 2 : Art x Art x Metaverse***. 
 
 - ***Future Art Ecosystems - Vol 3 : Art x Decentralised Tech***. 
