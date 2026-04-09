@@ -1,6 +1,6 @@
 # hackSpace-Library
 
-Reading list of resources on art, design and technology for the hackSpace community at Kingston School of Art. 
+A curated reading list of resources on art, design and technology for the hackSpace community at Kingston School of Art. 
   
 ---
 ## Art and Technology
