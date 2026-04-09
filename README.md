@@ -1,6 +1,8 @@
 # hackSpace-Library
 
 A curated reading list of resources on art, design and technology for the hackSpace community at Kingston School of Art. 
+
+*All physical and online books and magazines are available at the KSA Library and/or hackSpace.*
   
 ---
 ## Art and Technology
