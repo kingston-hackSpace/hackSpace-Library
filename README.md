@@ -5,6 +5,8 @@ A curated reading list of resources on art, design and technology available at t
 ---
 ## Art and Technology
 
+- [Electric dreams : art and technology before the internet](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997852051201931)
+  
 - ***Future Art Ecosystems - Vol 1: Art x Advanced Technologies***.
   
 - ***Future Art Ecosystems - Vol 2 : Art x Art x Metaverse***. 
@@ -19,14 +21,15 @@ A curated reading list of resources on art, design and technology available at t
 
 - ***Fieldwork for future ecologies : radical practice for art and art-based research***. 
 
-- ***Ars Electronica Catalogue***.
-
 - [When the machine made art : the troubled history of computer art](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997018984501931)
 
 ---
 ## Art and Technology Journals/Magazines/Catalogues
 
 - ***Leonardo Magazine***. 
+
+- ***Ars Electronica Catalogue***.
+
 
 
 ---
