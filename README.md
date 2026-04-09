@@ -19,7 +19,12 @@ A curated reading list of resources on art, design and technology available at t
 
 - ***Fieldwork for future ecologies : radical practice for art and art-based research***. 
 
-- ***Ars Electronica Catalogue***. 
+- ***Ars Electronica Catalogue***.
+
+---
+## Art and Technology Journals/Magazines 
+
+- ***Leonardo Magazine***. 
 
 
 ---
@@ -31,8 +36,6 @@ A curated reading list of resources on art, design and technology available at t
 - ***Low Tech Magazine : The Compressed Edition Volumes I, II, III***. 
 
 - ***Writing the Future: Essays on Crafting Science Fiction***. 
-
-- ***Leonardo Magazine***. 
 
 - ***More than human***. 
 
@@ -68,7 +71,9 @@ A curated reading list of resources on art, design and technology available at t
 
 - ***Getting started with sensors : measure the world with electronics, Arduino, and Raspberry Pi***. 
 
-- ***Make : wearable electronics : design, prototype, and wear your own interactive garments***. 
+- ***Make : wearable electronics : design, prototype, and wear your own interactive garments***.
+
+
 
 ---
 ## Sound Art
