@@ -42,8 +42,21 @@ A curated reading list of resources on art, design and technology for the hackSp
 
 - ***Decoding Digital Culture with Science Fiction : Hyper-Modernism, Hyperreality, and Posthumanism***. Online access via the KSA Library.
 
----
+- ***Media Archaeology: Approaches, Applications, and Implications***. Available at the KSA Library.
 
+- ***A Geology of Media***. Available at the KSA Library.
+
+- ***Atlas of AI : power, politics, and the planetary costs of artificial intelligence***. Available at the KSA Library.
+
+- ***Writing the Future: Essays on Crafting Science Fiction***. Available at the KSA Library.
+
+
+---
+## Design and Technology
+
+- ***Speculative everything : design, fiction, and social dreaming***. Available at the KSA Library.
+
+---
 ## Fashion and Technology
 
 - ***Fashionable technology***. Available at hackSpace. Online access via the KSA Library.
@@ -57,7 +70,6 @@ A curated reading list of resources on art, design and technology for the hackSp
 
 - ***Make : wearable electronics : design, prototype, and wear your own interactive garments***. Online access via the KSA Library
 
-- 
 ---
 ## Sound Art
 
@@ -69,5 +81,13 @@ A curated reading list of resources on art, design and technology for the hackSp
 ## Sustainability and Technology
 
 - ***Digital rubbish : a natural history of electronics***. Available at the KSA Library.
+
+- ***Better Things: Materials for Sustainable Product Design***. Online access via the KSA Library
+
+- ***How to Repair Everything: A Green Guide to Fixing Stuff***. Available at the KSA Library.
+
+- ***How circular is the circular economy?***. Available at the KSA Library.
+
+- ***A Slow, Contemporary Violence: Damaged Environments of Technological Culture***. Available at the KSA Library.
 
 
