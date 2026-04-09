@@ -1,6 +1,6 @@
 # hackSpace-Library
 
-A curated reading list of resources on art, design and technology available at the KSA Library and/or hackSpace.
+A curated reading list of resources on art, design and technology available at the KSA Library.
   
 ---
 ## Art and Technology
