@@ -21,8 +21,10 @@ A curated reading list of resources on art, design and technology available at t
 
 - ***Ars Electronica Catalogue***.
 
+- [When the machine made art : the troubled history of computer art](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997018984501931)
+
 ---
-## Art and Technology Journals/Magazines 
+## Art and Technology Journals/Magazines/Catalogues
 
 - ***Leonardo Magazine***. 
 
