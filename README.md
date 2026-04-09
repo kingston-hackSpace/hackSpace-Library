@@ -1,11 +1,27 @@
 # hackSpace-Library
 
 A curated reading list of resources on art, design and technology available at the KSA Library.
-  
+
+---
+### Ars Electronica Festival : Catalogues
+
+- [Ars Electronica 2023 Festival for Art, Technology, and Society](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997861170701931)
+
+- [Ars electronica 2014 : Festival for art, technology, and society](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/7gohr5/alma997059421001931)
+
+- [Ars electronica 2009 : human nature](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/7gohr5/alma992517670101931)
+
+- [Ars Electronica : facing the future : a survey of two decades](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma991672600101931)
+
+- [The network for art, technology and society : the first 30 years, Ars Electronica, 1979-2009](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma992609480101931)
+
 ---
 ## Art and Technology
 
 - [Electric dreams : art and technology before the internet](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997852051201931)
+
+- [Net.art 2.0 : new materials towards net art](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma991410980101931)
+
   
 - ***Future Art Ecosystems - Vol 1: Art x Advanced Technologies***.
   
@@ -29,6 +45,7 @@ A curated reading list of resources on art, design and technology available at t
 - ***Leonardo Magazine***. 
 
 - ***Ars Electronica Catalogue***.
+
 
 
 
