@@ -46,15 +46,12 @@ If there is any bibliography that you would like to suggest, please let us know!
 
 - ***Leonardo Magazine***. 
 
-- ***Ars Electronica Catalogue***.
-
-
-
-
 ---
 
 ## Critical Technology 
 
+- [Culture Codes Democracy (2026)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/7gohr5/alma997986488001931)
+    
 - ***Cyberfeminism index***. 
 
 - ***Low Tech Magazine : The Compressed Edition Volumes I, II, III***. 
