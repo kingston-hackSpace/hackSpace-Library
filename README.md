@@ -3,7 +3,7 @@
 Reading list of resources on art, design and technology for the hackSpace community at Kingston School of Art. 
   
 ---
-### Art and Technology
+## Art and Technology
 
 - ***Future Art Ecosystems - Vol 1: Art x Advanced Technologies***. Available at the KSA Library and hackSpace.
 
@@ -19,7 +19,7 @@ Reading list of resources on art, design and technology for the hackSpace commun
 
 ---
 
-### Critical Technology 
+## Critical Technology 
 
 - ***Cyberfeminism index***. Available at the KSA Library.
 
@@ -29,20 +29,20 @@ Reading list of resources on art, design and technology for the hackSpace commun
 
 ---
 
-### Fashion and Technology
+## Fashion and Technology
 
-- ***Fashionable technology**. Available at hackSpace
+- ***Fashionable technology***. Available at hackSpace
 
 
 
 ---
-### Sound Art
+## Sound Art
 
-- ***Sonic boom : the art of sound**. Available at the KSA Library.
+- ***Sonic boom : the art of sound***. Available at the KSA Library.
 
-- ***The Bloomsbury handbook of sound art**. Available at the KSA Library.
+- ***The Bloomsbury handbook of sound art***. Available at the KSA Library.
 
 ----
-### Sustainability and Technology
+## Sustainability and Technology
 
 
