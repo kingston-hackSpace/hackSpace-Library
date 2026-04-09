@@ -2,6 +2,8 @@
 
 A curated reading list of resources on art, design and technology available at the KSA Library.
 
+If there is any bibliography that you would like to suggest, please let us know! You can email us at ksa-technical-hackspace@kingston.ac.uk
+
 ---
 ### Ars Electronica Festival : Catalogues
 
