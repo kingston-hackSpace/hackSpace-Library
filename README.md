@@ -17,6 +17,11 @@ A curated reading list of resources on art, design and technology for the hackSp
   
 - ***A touch of code : interactive installations and experiences***. Available at the KSA Library.
 
+- ***Fieldwork for future ecologies : radical practice for art and art-based research***. Available at the KSA Library.
+
+- ***Ars Electronica Catalogue***. Open access at the Ars Electronica website. 
+
+
 ---
 
 ## Critical Technology 
@@ -27,14 +32,32 @@ A curated reading list of resources on art, design and technology for the hackSp
 
 - ***Writing the Future: Essays on Crafting Science Fiction***. Available at the KSA Library.
 
+- ***Leonardo Magazine***. Online access via the KSA Library.
+
+- ***More than human***. Available at the KSA Library.
+
+- ***The Sound of Culture : Diaspora and Black Technopoetics***. Available at the KSA Library.
+
+- ***The Carrier Bag Theory of Fiction***. Available at the KSA Library.
+
+- ***Decoding Digital Culture with Science Fiction : Hyper-Modernism, Hyperreality, and Posthumanism***. Online access via the KSA Library.
+
 ---
 
 ## Fashion and Technology
 
-- ***Fashionable technology***. Available at hackSpace
+- ***Fashionable technology***. Available at hackSpace. Online access via the KSA Library.
 
+---
+## Make
 
+- ***Make sensors : a hands-on primer for monitoring the real world with Arduino and Raspberry Pi***. Online access via the KSA Library.
 
+- ***Getting started with sensors : measure the world with electronics, Arduino, and Raspberry Pi***. Online access via the KSA Library.
+
+- ***Make : wearable electronics : design, prototype, and wear your own interactive garments***. Online access via the KSA Library
+
+- 
 ---
 ## Sound Art
 
@@ -44,5 +67,7 @@ A curated reading list of resources on art, design and technology for the hackSp
 
 ----
 ## Sustainability and Technology
+
+- ***Digital rubbish : a natural history of electronics***. Available at the KSA Library.
 
 
