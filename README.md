@@ -9,7 +9,11 @@ If there is any bibliography that you would like to suggest, please let us know!
 
 - [Ars Electronica 2023 Festival for Art, Technology, and Society](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997861170701931)
 
-- [Ars electronica 2014 : Festival for art, technology, and society](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/7gohr5/alma997059421001931)
+- [Ars Electronica 2016: Radical atoms and the alchemists of our time](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/7gohr5/alma997160021201931)
+
+- [Ars Electronica 2014 : Festival for art, technology, and society](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/7gohr5/alma997059421001931)
+
+- [Ars Electronica 2012: The big picture : new concepts for a new world](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/7gohr5/alma992999110101931)
 
 - [Ars electronica 2009 : human nature](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/7gohr5/alma992517670101931)
 
