@@ -24,37 +24,36 @@ If there is any bibliography that you would like to suggest, please let us know!
 ---
 ## Art and Technology
 
-- [Electric dreams : art and technology before the internet](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997852051201931)
+- [Electric dreams : art and technology before the internet (2024)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997852051201931)
 
-- [Net.art 2.0 : new materials towards net art](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma991410980101931)
+- [Net.art 2.0 : new materials towards net art (2001)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma991410980101931)
 
+- [Future Art Ecosystems - Vol 1: Art x Advanced Technologies (2021)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997940398701931)
   
-- Future Art Ecosystems - Vol 1: Art x Advanced Technologies
+- [Future Art Ecosystems - Vol 2 : Art x Art x Metaverse (2021)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997940398601931)
+
+- [Future Art Ecosystems - Vol 3 : Art x Decentralised Tech (2022)]((https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997940398501931))
+
+- [Future Art Ecosystems - Vol 4 : Art x Public AI (2024)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997940398401931)
   
-- Future Art Ecosystems - Vol 2 : Art x Art x Metaverse
+- [A touch of code : interactive installations and experiences (2011)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma992872940101931)
 
-- Future Art Ecosystems - Vol 3 : Art x Decentralised Tech
+- [Fieldwork for future ecologies : radical practice for art and art-based research (2022)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997918779201931)
 
-- Future Art Ecosystems - Vol 4 : Art x Public AI
-
-- Green Light: Toward an Art of Evolution
-  
-- A touch of code : interactive installations and experiences
-
-- Fieldwork for future ecologies : radical practice for art and art-based research
-
-- [When the machine made art : the troubled history of computer art](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997018984501931)
+- [When the machine made art : the troubled history of computer art (2014)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997018984501931)
 
 ---
 ## Art and Technology Journals/Magazines/Catalogues
 
-- Leonardo Magazine
+- [Leonardo Magazine (1968-)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997005108901931)
 
 ---
 
 ## Critical Technology 
 
 - [Culture Codes Democracy (2026)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/7gohr5/alma997986488001931)
+
+- [Green Light: Toward an Art of Evolution](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997006493701931)
     
 - Cyberfeminism index
 
@@ -83,6 +82,8 @@ If there is any bibliography that you would like to suggest, please let us know!
 ## Design and Technology
 
 - Speculative everything : design, fiction, and social dreaming
+
+- [Hello, Robot](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997184217101931)
 
 ---
 ## Fashion and Technology
