@@ -2,7 +2,9 @@
 
 The following is a curated reading list of resources on art, design and technology ***available at the KSA Library***.
 
-If there is any bibliography that you would like to suggest, please let us know! You can email us at ksa-technical-hackspace@kingston.ac.uk
+If there is any bibliography that you would like to suggest, please let us know! 
+
+You can email us at ksa-technical-hackspace@kingston.ac.uk
 
 ---
 ### Ars Electronica Festival : Catalogues
@@ -24,9 +26,11 @@ If there is any bibliography that you would like to suggest, please let us know!
 ---
 ## Art and Technology
 
+- [A touch of code : interactive installations and experiences (2011)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma992872940101931)
+
 - [Electric dreams : art and technology before the internet (2024)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997852051201931)
 
-- [Net.art 2.0 : new materials towards net art (2001)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma991410980101931)
+- [Fieldwork for future ecologies : radical practice for art and art-based research (2022)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997918779201931)
 
 - [Future Art Ecosystems - Vol 1: Art x Advanced Technologies (2021)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997940398701931)
   
@@ -35,55 +39,45 @@ If there is any bibliography that you would like to suggest, please let us know!
 - [Future Art Ecosystems - Vol 3 : Art x Decentralised Tech (2022)]((https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997940398501931))
 
 - [Future Art Ecosystems - Vol 4 : Art x Public AI (2024)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997940398401931)
-  
-- [A touch of code : interactive installations and experiences (2011)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma992872940101931)
 
-- [Fieldwork for future ecologies : radical practice for art and art-based research (2022)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997918779201931)
+- [Net.art 2.0 : new materials towards net art (2001)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma991410980101931)
 
 - [When the machine made art : the troubled history of computer art (2014)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997018984501931)
-
----
-## Art and Technology Journals/Magazines/Catalogues
-
-- [Leonardo Magazine (1968-)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997005108901931)
 
 ---
 
 ## Critical Technology 
 
-- [Culture Codes Democracy (2026)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/7gohr5/alma997986488001931)
-
-- [Green Light: Toward an Art of Evolution](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997006493701931)
-    
-- Cyberfeminism index
-
-- Low Tech Magazine : The Compressed Edition Volumes I, II, III
-
-- Writing the Future: Essays on Crafting Science Fiction 
-
+- [A Geology of Media (2015)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997918378501931)
+  
 - [AI: More than human (2019)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997423621401931)
 
-- The Sound of Culture : Diaspora and Black Technopoetics
+- [Atlas of AI : power, politics, and the planetary costs of artificial intelligence (2022)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997918379001931)
 
-- The Carrier Bag Theory of Fiction
+- [Culture Codes Democracy (2026)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/7gohr5/alma997986488001931)
 
-- Decoding Digital Culture with Science Fiction : Hyper-Modernism, Hyperreality, and Posthumanism
+- [Cyberfeminism index (2022)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997918779401931)
 
-- Media Archaeology: Approaches, Applications, and Implications
+- [Decoding Digital Culture with Science Fiction : Hyper-Modernism, Hyperreality, and Posthumanism (2024)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1bd2t44/cdi_oapen_primary_oai_library_oapen_org_20_500_12657_92281)
 
-- A Geology of Media
+- [Green Light: Toward an Art of Evolution (2010)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997006493701931)
+    
+- [Media Archaeology: Approaches, Applications, and Implications (2011)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997918379101931)
 
-- Atlas of AI : power, politics, and the planetary costs of artificial intelligence
+- [The Carrier Bag Theory of Fiction (2024)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997918379301931)
 
-- Writing the Future: Essays on Crafting Science Fiction
+- [The Sound of Culture : Diaspora and Black Technopoetics (2016)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997918379401931)
 
-
+- [Writing the Future: Essays on Crafting Science Fiction (2023)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997736320701931)
+  
 ---
 ## Design and Technology
 
-- Speculative everything : design, fiction, and social dreaming
 
-- [Hello, Robot](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997184217101931)
+
+- [Hello, Robot (2017)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997184217101931)
+
+- Speculative everything : design, fiction, and social dreaming
 
 ---
 ## Fashion and Technology
@@ -91,14 +85,20 @@ If there is any bibliography that you would like to suggest, please let us know!
 - Fashionable technology
 
 ---
-## Make
+## Journals/Magazines
 
-- Make sensors : a hands-on primer for monitoring the real world with Arduino and Raspberry Pi
+- [Leonardo Magazine (1968-)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997005108901931)
+
+- Low Tech Magazine : The Compressed Edition Volumes I, II, III
+
+---
+## Make
 
 - Getting started with sensors : measure the world with electronics, Arduino, and Raspberry Pi
 
 - Make : wearable electronics : design, prototype, and wear your own interactive garments
 
+- Make sensors : a hands-on primer for monitoring the real world with Arduino and Raspberry Pi
 
 
 ---
@@ -111,6 +111,8 @@ If there is any bibliography that you would like to suggest, please let us know!
 ----
 ## Sustainability and Technology
 
+- A Slow, Contemporary Violence: Damaged Environments of Technological Culture
+
 - Digital rubbish : a natural history of electronics
 
 - Better Things: Materials for Sustainable Product Design
@@ -119,6 +121,6 @@ If there is any bibliography that you would like to suggest, please let us know!
 
 - How circular is the circular economy?
 
-- A Slow, Contemporary Violence: Damaged Environments of Technological Culture
+
 
 
