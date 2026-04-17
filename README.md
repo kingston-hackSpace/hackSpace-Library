@@ -114,7 +114,7 @@ You can email us at ksa-technical-hackspace@kingston.ac.uk
 
 - [Digital rubbish : a natural history of electronics (2013)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997340212901931)
 
-- [Better Things: Materials for Sustainable Product Design (2024)](Better Things: Materials for Sustainable Product Design)
+- [Better Things: Materials for Sustainable Product Design (2024)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997776622101931)
 
 - [How to Repair Everything: A Green Guide to Fixing Stuff (2020)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997918378801931)
 
