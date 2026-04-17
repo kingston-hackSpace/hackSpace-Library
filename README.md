@@ -36,7 +36,7 @@ You can email us at ksa-technical-hackspace@kingston.ac.uk
   
 - [Future Art Ecosystems - Vol 2 : Art x Art x Metaverse (2021)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997940398601931)
 
-- [Future Art Ecosystems - Vol 3 : Art x Decentralised Tech (2022)]((https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997940398501931))
+- [Future Art Ecosystems - Vol 3 : Art x Decentralised Tech (2022)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997940398501931)
 
 - [Future Art Ecosystems - Vol 4 : Art x Public AI (2024)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997940398401931)
 
@@ -73,53 +73,52 @@ You can email us at ksa-technical-hackspace@kingston.ac.uk
 ---
 ## Design and Technology
 
-
-
 - [Hello, Robot (2017)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997184217101931)
 
-- Speculative everything : design, fiction, and social dreaming
+- [Speculative everything : design, fiction, and social dreaming (2013)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma993085930101931)
 
 ---
 ## Fashion and Technology
 
-- Fashionable technology
+- [Fashionable technology (2009)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/13tmt0p/alma992615340101931)
 
+- [Functional aesthetics : visions in fashionable technology (2010)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma992727750101931)
 ---
 ## Journals/Magazines
 
 - [Leonardo Magazine (1968-)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997005108901931)
 
-- Low Tech Magazine : The Compressed Edition Volumes I, II, III
+- [Low Tech Magazine : The Compressed Edition Volumes I, II, III (2007 - 2021)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997928298201931)
 
 ---
 ## Make
 
-- Getting started with sensors : measure the world with electronics, Arduino, and Raspberry Pi
+- [Getting started with sensors : measure the world with electronics, Arduino, and Raspberry Pi (2014)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997609049701931)
 
-- Make : wearable electronics : design, prototype, and wear your own interactive garments
+- [Make : wearable electronics : design, prototype, and wear your own interactive garments (2025)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997855222201931)
 
-- Make sensors : a hands-on primer for monitoring the real world with Arduino and Raspberry Pi
+- [Make sensors : a hands-on primer for monitoring the real world with Arduino and Raspberry Pi (2014)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997604976301931)
 
 
 ---
 ## Sound Art
 
-- Sonic boom : the art of sound
+- [Sonic boom : the art of sound (2000)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma991246520101931)
   
-- The Bloomsbury handbook of sound art
+- [The Bloomsbury handbook of sound art (2022)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997824022001931)
 
 ----
 ## Sustainability and Technology
 
-- A Slow, Contemporary Violence: Damaged Environments of Technological Culture
+- [A Slow, Contemporary Violence: Damaged Environments of Technological Culture (2016)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997918978801931)
 
-- Digital rubbish : a natural history of electronics
+- [Digital rubbish : a natural history of electronics (2013)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997340212901931)
 
-- Better Things: Materials for Sustainable Product Design
+- [Better Things: Materials for Sustainable Product Design (2024)](Better Things: Materials for Sustainable Product Design)
 
-- How to Repair Everything: A Green Guide to Fixing Stuff
+- [How to Repair Everything: A Green Guide to Fixing Stuff (2020)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997918378801931)
 
-- How circular is the circular economy?
+- [How circular is the circular economy? (2024)](https://kingston.primo.exlibrisgroup.com/permalink/44KU_INST/1pmfv0b/alma997918978901931)
 
 
 
